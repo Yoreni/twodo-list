@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Noto-Sans;
+  src: url("assets/NotoSans-VariableFont_wdth\,wght.ttf");
+}
+
+body {
+  background-image: linear-gradient(#444, #111);
+}
+
+.font-noto-sans {
+  font-family: Noto Sans;
+}
+
